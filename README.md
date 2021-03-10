@@ -12,7 +12,7 @@ apt install python2
 
 apt install git
 
-git clone http://github.com/nfs-tech-bd/IP-FINDER`
+git clone http://github.com/nfs-tech-bd/IP-FINDER
 
 cd IP-FINDER
 
