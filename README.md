@@ -1,7 +1,7 @@
 # IP-FINDER
 Find All Information About Your Target Ip
 
-# Termux_Commands
+## Termux_Commands
 
 `apt update
 
