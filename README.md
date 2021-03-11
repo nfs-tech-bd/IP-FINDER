@@ -5,6 +5,10 @@
 # IP-FINDER
 Find All Information About Your Target Ip
 
+### SCREENSHOT
+
+<img src="https://raw.githubusercontent.com/nfs-tech-bd/IP-FINDER/main/Screenshot_2021-03-11-20-15-49-097_com.termux.png">
+
 ## Termux_Commands
 
 ```
